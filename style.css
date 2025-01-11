@@ -10,3 +10,8 @@ body{
     justify-content: center;
     align-items: center;
 }
+
+.container ul li{
+    font-size: 1rem;
+    background-color: red;
+}

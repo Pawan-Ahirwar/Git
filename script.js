@@ -6,3 +6,10 @@ const obj = {
         pin:451335,
     }
 }
+
+const greet = function(){
+    console.log("Keso ho bhaiyo");
+    console.log("hello greet");
+} 
+
+greet();
